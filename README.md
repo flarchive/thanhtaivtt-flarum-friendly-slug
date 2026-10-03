@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of thanhtaivtt/flarum-friendly-slug.** Not for installation: use [Packagist](https://packagist.org/packages/thanhtaivtt/flarum-friendly-slug) or the [upstream repository](https://github.com/thanhtaivtt/flarum-friendly-slug).
 
-**0** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2019-09-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug/tree/archive/v1.0.0) |
+| `v1.0.1` | 2019-09-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug/tree/archive/v1.0.1) |
+| `v1.0.2` | 2019-09-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug/tree/archive/v1.0.2) |
+| `v1.0.4` | 2019-09-21 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/thanhtaivtt-flarum-friendly-slug/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/thanhtaivtt-flarum-friendly-slug.json](https://github.com/flarchive/archive-index/blob/main/packages/thanhtaivtt-flarum-friendly-slug.json)
 
